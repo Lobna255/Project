@@ -16,7 +16,7 @@ const ProductScreen = () => {
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" />
 
-      <Text style={styles.title}>Mon application Nike</Text>
+      <Text style={styles.title}>Bienvenue dans notre boutique Nike</Text>
       <Text style={styles.subtitle}>
         Découvrez nos produits
       </Text>
