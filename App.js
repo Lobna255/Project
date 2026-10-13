@@ -1,6 +1,6 @@
 
 import React from 'react';
-import ProductScreen from './src/screens/ProductScreen';
+import ProductScreen from './src/screens/productScreen.js';
 
 const App = () => {
   return <ProductScreen />;
